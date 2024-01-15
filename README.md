@@ -21,6 +21,8 @@ We make use of DAKBoard application to show the Home Assistant interface on a HD
 
 **About the Monitor**
 
+![61MyPAqAWbL _AC_SL1500_](https://github.com/vanHeemstraSystems/home-assistant-with-dakboard/assets/1499433/0a5465ec-f2b9-4e19-874e-f0a016247a84)
+
 ViewSonic TD2465 24 Inch 1080p IPS Touch Screen Monitor with Advanced Ergonomics, HDMI and USB Inputs,Black
 
 Screen Size	24 Inches
@@ -30,8 +32,6 @@ Special Feature	Touchscreen, USB Hub, Tilt Adjustment, Built-In Speakers
 Refresh Rate	60
 
 $ 329.99
-
-
 
 ## 300 - Building Our Application
 
