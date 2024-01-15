@@ -19,6 +19,20 @@ We make use of DAKBoard application to show the Home Assistant interface on a HD
 - (Optional) Wallmount, see https://amzn.to/3STrV6N
 - Home Assistant Cloud Access (here we use Nabu Casa)
 
+**About the Monitor**
+
+ViewSonic TD2465 24 Inch 1080p IPS Touch Screen Monitor with Advanced Ergonomics, HDMI and USB Inputs,Black
+
+Screen Size	24 Inches
+Display Resolution Maximum	1920 x 1080 Pixels
+Brand	ViewSonic
+Special Feature	Touchscreen, USB Hub, Tilt Adjustment, Built-In Speakers
+Refresh Rate	60
+
+$ 329.99
+
+
+
 ## 300 - Building Our Application
 
 
